@@ -1,0 +1,52 @@
+/*
+COLORS:
+WHITE: #FDFFFC
+    #dddfdd
+    #bebfbd
+    #9e9f9e
+    #7f807e
+    #5f605f
+    #3f403f
+    #202020
+
+RED: #D00000
+    #b60000
+    #b60000
+    #820000
+    #680000
+    #4e0000
+    #340000
+    #1a0000
+YELLOW: #FFBA08
+PRINCIPAL BLUE: #275DAD
+SECONDARY BLUE: #235789
+*/
+
+div
+{
+    margin: 3px 20px 2px 20px;
+    overflow: hidden;
+    padding: 2%;
+    border-radius: 15px;
+    background: #275DAD;
+    color: #dddfdd;
+}
+div b
+{
+    font-size: 15px;
+}
+
+div > span
+{
+    margin-right: 20%;
+    margin-left: 5px;
+}
+
+.solve
+{
+    background: #820000;
+    font-size: 20px;
+    color: #9e9f9e;
+    position: relative;
+    left:  80%;
+}

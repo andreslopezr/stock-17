@@ -7,6 +7,7 @@ function createWindow () //crear ventana alto y ancho
         {
             width: 1280, //ancho
             height: 720, //alto
+            icon: __dirname + './Views/Resources/Multimedia/icon.png',
             webPreferences: 
             {
                 nodeIntegration: true,
